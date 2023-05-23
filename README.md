@@ -1,0 +1,3 @@
+- Hi, I’m Annika!
+- I’m interested in integrated circuit design and software development.
+- I’m currently working on creating a text editor in C!
